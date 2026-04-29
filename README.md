@@ -1,4 +1,4 @@
-# CVE-2026-Pending cPanel/WHM Authentication Bypass - Detection Artifact Generator
+# cve-2026-41940 cPanel/WHM Authentication Bypass - Detection Artifact Generator
 
 cPanel/WHM Authentication Bypass Detection Artifact Generator Tool
 
