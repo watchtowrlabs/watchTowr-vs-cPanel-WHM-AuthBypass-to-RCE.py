@@ -2,9 +2,6 @@
 
 cPanel/WHM Authentication Bypass Detection Artifact Generator Tool
 
-https://github.com/user-attachments/assets/cf10c03c-6eda-4a0f-8c8b-c2578d71d2dd
-
-
 
 # Description
 
